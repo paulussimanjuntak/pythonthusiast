@@ -1,0 +1,3 @@
+# pythonthusiast
+Penggunaan git
+Paulus

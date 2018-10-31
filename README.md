@@ -13,6 +13,10 @@
 - Meng-commit kode, dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
 
+## Instalasi Git
+- Menggunakan linux cukup dengan apt install git
+- menggunakan windows dengan mendownload tool di web
+
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari harddisk rusak
 - Memiliki repository Github yang public, akan menjadi repository tersebut sebagai portofolio

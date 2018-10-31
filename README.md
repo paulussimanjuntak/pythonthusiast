@@ -12,3 +12,4 @@ Paulus
 - Merubah kode pada branch tersebut
 - Meng-commit kode
 - Mem-push branch tersebut
+- 
